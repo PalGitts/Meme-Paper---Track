@@ -6,13 +6,43 @@
   </tr>
 
  
-  <tr style="display: none">
+  <tr>
       <td style="padding-right: 10px;">*</td>
       <td style="padding-right: 15px;"><a href="*" target="_blank">*</a></td>
       <td style="padding-right: 10px; color:Red;"> Pending </td>
   </tr>
 
-  <tr style="display: none">
+
+    <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="*" target="_blank">You Know What I Meme Enhancing People's Understanding and Awareness of Hateful Memes Using Crowdsourced Explanations</a></td>
+      <td style="padding-right: 10px; color:Red;"> Pending </td>
+  </tr>
+    <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2212.00715" target="_blank">What Do You MEME Generating Explanations for Visual Semantic Role Labelling in Memes</a></td>
+      <td style="padding-right: 10px; color:Red;"> Pending </td>
+  </tr>
+    <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2308.08088" target="_blank">Pro-Cap Leveraging a Frozen Vision-Language Model for Hateful Meme Detection</a></td>
+      <td style="padding-right: 10px; color:Red;"> Pending </td>
+  </tr>
+    <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2305.15913" target="_blank">MEMEX Detecting Explanatory Evidence for Memes via Knowledge-Enriched Contextualization</a></td>
+      <td style="padding-right: 10px; color:Red;"> Pending </td>
+  </tr>
+    <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2302.05703" target="_blank">HateProof: Are Hateful Meme Detection Systems really Robust?
+</a></td>
+      <td style="padding-right: 10px; color:Red;"> Pending </td>
+  </tr>
+  
+  
+  
+<tr>
       <td style="padding-right: 10px;">2023</td>
       <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2305.17678" target="_blank">Decoding the Underlying Meaning of Multimodal Hateful Memes.</a></td>
       <td style="padding-right: 10px; color:Red;"> Pending </td>

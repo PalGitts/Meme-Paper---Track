@@ -12,9 +12,14 @@
       <td style="padding-right: 10px; color:Red;"> Pending </td>
   </tr>
 
+  <tr style="display: none">
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2305.17678" target="_blank">Decoding the Underlying Meaning of Multimodal Hateful Memes.</a></td>
+      <td style="padding-right: 10px; color:Red;"> Pending </td>
+  </tr>
  
   <tr>
-      <td style="padding-right: 10px;">*</td>
+      <td style="padding-right: 10px;">2023</td>
       <td style="padding-right: 15px;"><a href="https://arxiv.org/pdf/2301.11219.pdf" target="_blank">Characterizing the Entities in Harmful Memes Who is the Hero, the Villain, the Victim</a></td>
       <td style="padding-right: 10px; color:Red;"> Pending </td>
   </tr>

@@ -10,7 +10,18 @@
       <td style="padding-right: 15px;"><a href="*" target="_blank">*</a></td>
       <td style="padding-right: 10px;"> Pending </td>
   </tr>
+
+  <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://www.techrxiv.org/articles/preprint/Tad_A_Domain-Aware_Framework_Learning_to_Adapt_Target_Shifts_of_Hate_Speech/24496069" target="_blank">Tad: A Domain-Aware Framework Learning to Adapt Target Shifts of Hate Speech</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
   
+  <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/pdf/2311.09130v1.pdf" target="_blank">Social Meme-ing: Measuring Linguistic Variation in Memes</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
   <tr>
       <td style="padding-right: 10px;">2023</td>
       <td style="padding-right: 15px;"><a href="https://arxiv.org/pdf/2311.03079.pdf" target="_blank">COGVLM: VISUAL EXPERT FOR LARGE LANGUAGE MODELS</a></td>

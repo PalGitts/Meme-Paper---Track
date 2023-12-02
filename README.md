@@ -11,6 +11,34 @@
       <td style="padding-right: 10px;"> Pending </td>
   </tr>
 
+ <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://ceur-ws.org/Vol-3566/paper2.pdf" target="_blank">FLYPE : Multitask Prompt Tuning for Multimodal Human Understanding of Social Media</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+  
+  <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526369" target="_blank">"Somewhere Along Your Pedigree, a Bitch Got Over the Wall!” – A Data-Driven Approach to a Typology of Implicitly Offensive Language</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+    <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://dl.acm.org/doi/abs/10.1145/3581783.3613836" target="_blank">PromptMTopic: Unsupervised Multimodal Topic Modeling of Memes using Large Language Models</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+  <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2308.11585" target="_blank">Causal Intersectionality and Dual Form of Gradient Descent for Multimodal Analysis: a Case Study on Hateful Memes</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+
+  <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2311.06737" target="_blank">Detecting and Correcting Hate Speech in Multimodal Memes with Large Visual Language Model</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+
   <tr>
       <td style="padding-right: 10px;">2023</td>
       <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2212.14100" target="_blank">Leveraging World Knowledge in Implicit Hate Speech Detection</a></td>
@@ -18,7 +46,7 @@
   </tr>  
   <tr>
       <td style="padding-right: 10px;">2023</td>
-      <td style="padding-right: 15px;"><a href="*" target="_blank">*</a></td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2306.14924" target="_blank">LLM-Assisted Content Analysis: Using Large Language Models to Support Deductive Coding</a></td>
       <td style="padding-right: 10px;"> Pending </td>
   </tr>
   <tr>

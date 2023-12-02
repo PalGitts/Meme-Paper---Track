@@ -1,4 +1,4 @@
-<table style="text-align:left; width:100%">
+<table style="text-align:left; width:100%; font-size:11px">
   <tr>    
     <th style="padding: 10px;">YoP</th>
     <th style="padding: 10px;">Paper Name</th>
@@ -11,6 +11,49 @@
       <td style="padding-right: 10px;"> Pending </td>
   </tr>
 
+  <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2212.14100" target="_blank">Leveraging World Knowledge in Implicit Hate Speech Detection</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>  
+  <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="*" target="_blank">*</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+  <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://dl.acm.org/doi/abs/10.1145/3543873.3587320" target="_blank">Chain of Explanation: New Prompting Method to Generate Quality Natural Language Explanation for Implicit Hate Speech</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+  <tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2302.07736" target="_blank">Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+
+<tr>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="An In-depth Analysis of Implicit and Subtle Hate Speech Messages" target="_blank">https://hal.science/hal-04214094v1/document</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+
+  <tr>
+      <td style="padding-right: 10px;">2022</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/abs/2203.09509" target="_blank">ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+
+  <tr>
+      <td style="padding-right: 10px;">2022</td>
+      <td style="padding-right: 15px;"><a href="https://aclanthology.org/2022.coling-1.579.pdf" target="_blank">Generalizable Implicit Hate Speech Detection using Contrastive Learning</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+<tr>
+      <td style="padding-right: 10px;">2021</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/pdf/2109.05322.pdf" target="_blank">Latent Hatred: A Benchmark for Understanding Implicit Hate Speech</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
   <tr>
       <td style="padding-right: 10px;">2023</td>
       <td style="padding-right: 15px;"><a href="https://www.techrxiv.org/articles/preprint/Tad_A_Domain-Aware_Framework_Learning_to_Adapt_Target_Shifts_of_Hate_Speech/24496069" target="_blank">Tad: A Domain-Aware Framework Learning to Adapt Target Shifts of Hate Speech</a></td>

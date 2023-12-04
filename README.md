@@ -74,7 +74,7 @@
 	  <td>21</td>
       <td style="padding-right: 10px;">2023</td>
       <td style="padding-right: 15px;"><a href="https://dl.acm.org/doi/abs/10.1145/3543873.3587320" target="_blank">Chain of Explanation: New Prompting Method to Generate Quality Natural Language Explanation for Implicit Hate Speech</a></td>
-      <td style="padding-right: 10px;"> Pending </td>
+      <td style="padding-right: 10px;"> Walkthrough </td>
   </tr>
   <tr>
 	  <td>20</td>

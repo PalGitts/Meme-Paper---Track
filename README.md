@@ -42,7 +42,7 @@
 	  <td>26</td>
       <td style="padding-right: 10px;">2023</td>
       <td style="padding-right: 15px;"><a href="https://dl.acm.org/doi/abs/10.1145/3581783.3613836" target="_blank">PromptMTopic: Unsupervised Multimodal Topic Modeling of Memes using Large Language Models</a></td>
-      <td style="padding-right: 10px;"> Pending </td>
+      <td style="padding-right: 10px;"> Walkthrough </td>
   </tr>
   <tr>
 	  <td>25</td>

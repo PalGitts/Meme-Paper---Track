@@ -7,12 +7,24 @@
   </tr>
 
   <tr>
-	  <td>29</td>
+	  <td>**</td>
       <td style="padding-right: 10px;">2023</td>
       <td style="padding-right: 15px;"><a href="*" target="_blank">*</a></td>
       <td style="padding-right: 10px;"> Pending </td>
   </tr>
-
+  
+  <tr>
+	  <td>30</td>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/pdf/2310.08368.pdf" target="_blank">Mapping Meme to Words</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+  <tr>
+	  <td>29</td>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://arxiv.org/pdf/2311.11157.pdf" target="_blank">Contextualizing Internet Memes Across Social Platforms.</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
  <tr>
 	  <td>28</td>
       <td style="padding-right: 10px;">2023</td>

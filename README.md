@@ -12,7 +12,14 @@
       <td style="padding-right: 15px;"><a href="*" target="_blank">*</a></td>
       <td style="padding-right: 10px;"> Pending </td>
   </tr>
-  
+
+  <tr>
+	  <td>31</td>
+      <td style="padding-right: 10px;">2023</td>
+      <td style="padding-right: 15px;"><a href="https://journals.aps.org/pre/pdf/10.1103/PhysRevE.108.064103" target="_blank">Stochastic evolution of bad memes</a></td>
+      <td style="padding-right: 10px;"> Pending </td>
+  </tr>
+
   <tr>
 	  <td>30</td>
       <td style="padding-right: 10px;">2023</td>
